@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for Mr Strong's church-members; shewing they ought not implicitely to submit to his unnecessary and doubtful rules, although for it he threaten to debar them from the Lords Table, or to leave them altogether. / By Thomas Bakewell.</title>
+            <author>Bakewell, Thomas, b. 1618 or 19.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77763</idno>
+            <idno type="STC">Wing B536</idno>
+            <idno type="STC">Thomason E610_6</idno>
+            <idno type="STC">ESTC R206336</idno>
+            <idno type="EEBO-CITATION">99865508</idno>
+            <idno type="PROQUEST">99865508</idno>
+            <idno type="VID">117753</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117753)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E610[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for Mr Strong's church-members; shewing they ought not implicitely to submit to his unnecessary and doubtful rules, although for it he threaten to debar them from the Lords Table, or to leave them altogether. / By Thomas Bakewell.</title>
+                  <author>Bakewell, Thomas, b. 1618 or 19.</author>
+               </titleStmt>
+               <extent>[1], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Dallom, and are to be sold at his shop in black Fryers, neer Carter-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strong, William, d. 1654.</term>
+               <term>Lord's Supper --  Early works to 1800.</term>
+               <term>Independent churches --  England --  London --  Early works to 1800.</term>
+               <term>Anabaptists --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117753:1" rendition="simple:additions"/>
+            <p>A PLEA FOR M<hi rend="sup">r</hi> Strong's Church-Members; Shewing they ought not implicitely to ſubmit to his un<g ref="char:EOLhyphen"/>neceſſary and doubtful Rules, Although for it he threaten to debar them from the Lords Table, or to leave them altogether.</p>
+            <p>
+               <hi>By Thomas Bakewell.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1 COR. 15.58.</hi>
+               </bibl>
+               <p>Therefore my beloved Brethren, be ye ſtedfast, unmoveable, al<g ref="char:EOLhyphen"/>wayes abounding in the work of the Lord, foraſmuch as you know that your labour is not in vain in the Lord.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Dallom,</hi> and are to be ſold at his ſhop in <hi>black Fryers,</hi> neer Carter-lane. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117753:2"/>
+            <pb n="3" facs="tcp:117753:2"/>
+            <head>A Plea for M<hi rend="sup">r</hi> Strong's Church-Members; Shewing they ought not implicitely to ſubmit to his unneceſſary and doubtful Rules, al<g ref="char:EOLhyphen"/>though for it he threaten to debar them from the Lords Table, or leave them altogether.</head>
+            <p>THe Cauſe moving me to ſpeak my thoughts of thoſe Rules was this: A friend in that Pariſh told me, that M. <hi>Strong</hi> had impoſed ſome doubtful Rules on his own examined and approved Communicants to ſubſcribe, and till they do it, he is reſolved to debar them all from the Lords Table, if not wholly forſake them, although their Conſciences be not ſatisfied touching the lawfulneſs of it; hereupon I wrote my opinion of thoſe Rules, intended for Mr <hi>Strong:</hi> But another told me it was in vain; for ſome Miniſters had written to him about it, to whom he will give no anſwer, nor yet diſpence the Ordinance, as if he were the Lord of Gods Ordinances, to diſpence or refuſe at his pleaſure, yea to his own approved Communicants, and alſo having the Paſtor<g ref="char:EOLhyphen"/>al charge over them. But is this to feed the Lambs of Chriſt? and as a Nurſe, to impart if it were poſſible his own Soul for the Babes in Chriſt? or as a faithful Steward, to feed the Lords family, to mo<g ref="char:EOLhyphen"/>nopolize Gods Ordinance, he being but an Embaſſador or Meſſenger of it from Chriſt to them? Or is this to have the tongue of the learned to ſpeak in ſeaſon to the weary Soul, to impoſe ſuch penal<g ref="char:EOLhyphen"/>ties
+<pb n="4" facs="tcp:117753:3"/>on the Conſcience unſatisfied? Now for their ſatisfaction I thought good to publiſh my thoughts of thoſe Rules.</p>
+            <p>The firſt Rule, <hi>Chriſt hath inſtituted particular Churches under the Gospel; and it's the duty of Saints to gather themſelves into ſuch Societies.</hi>
+            </p>
+            <p>To theſe two Propoſitions, I would know of him, what Churches thoſe be into which the Saints are not yet admitted, and into which it is the Saints duty to gather themſelves: Is there any Churches without Saints, or into which the Saints are not yet admitted? On<g ref="char:EOLhyphen"/>ly <hi>it is their duty to gather themſelves into ſuch Societies.</hi> This kind of reaſoning is much like as if he had ſaid, Chriſt hath inſtituted Bodies without Members, and its the Members duty to gather themſelves into thoſe Bodies; or Chriſt hath inſtituted Trees with<g ref="char:EOLhyphen"/>out Branches, and it is the Branches duty to gather themſelves into thoſe Trees: Therefore I demand again, what be thoſe Churches into which the Saints muſt gather themſelves? I hope you will not call your ſelf the Church, one man cannot be a Congregation, into which the Saints ſhould be gathered, nor the Church to which they ſhould be added: The Embaſſador of Chriſt ſhould beſeech men to be reconciled to God, not to himſelf, as falſe Prophets draw Di<g ref="char:EOLhyphen"/>ſciples to themſelves, <hi>Acts</hi> 20.30.</p>
+            <p>To the other Propoſition, what be thoſe Saints without the Church, whoſe duty it is to gather themſelves into it? Do you mean ſome among the Turks, miraculouſly wrought upon with true ſa<g ref="char:EOLhyphen"/>ving grace, that they ſhould haſten themſelves into the viſible Church? If ſo, why do you not go amongſt them, and ſeek for ſuch, and bring them in, to make known the mind of God unto them.</p>
+            <p>As for baptized Chriſtians, they need no gathering into the Church, they are children of <hi>Zion, Pſal.</hi> 149.2. It ſhall be ſaid, this and that man was born in her, <hi>Pſal.</hi> 87.5. The Chriſtian Church ſhall travel, and bring forth more children to God, then the Jewiſh Church did, <hi>Iſai.</hi> 54.1. And all her children do ſeal their admiſſion into the Univerſal viſible Church at their Baptiſm, which compre<g ref="char:EOLhyphen"/>hends all particular Churches, which are but as branches and mem<g ref="char:EOLhyphen"/>bers of it; this Univerſal Church was inſtituted by Jeſus Chriſt, into which all Miniſters, both extraordinary and ordinary, are placed, 1 <hi>Cor.</hi> 12 18. and into which all Chriſtians ſealed their admittance at their Baptiſm, both thoſe children that are born of baptized parents, and alſo thoſe converted from Heathens and Infidels without, theſe
+<pb n="5" facs="tcp:117753:3"/>are all added to that one Univerſal Church, <hi>Acts</hi> 2.45, 47. Not to <hi>Peters</hi> or <hi>Pauls</hi>-Church, or any one ſingle Congregation, for then in caſe of removal to another, they would need again to be baptized, &amp; their Miniſters again to be ordained, yea as often as they remove into other Churches; but Baptiſm ſignifies ingrafting into Chriſt, and the new birth: But as a man can be born but once, and the ſience ingrafred but once; ſo a Member can be but once admitted into the viſible Church, which is already done, and ſealed at their Baptiſm.</p>
+            <p>The ſecond Rule, <hi>Churches instituted by Christ are to be a com<g ref="char:EOLhyphen"/>pany of viſible Saints, united into one Body by mutual conſent, to enjoy a conſtant communion among themſelves, partaking in all Or<g ref="char:EOLhyphen"/>dinances, according to Gods Order, for the edification of one an<g ref="char:EOLhyphen"/>other.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> It is true, that thoſe of age, who are real Members of Chriſt, and alſo have ſealed the Covenant of Grace and their admiſsion into the viſible Church at their Baptiſm, thoſe I grant are true Saints, yet ſometimes no more viſible then thoſe 7000. who had not bowed the knee to <hi>Baal:</hi> Gods people are called <hi>hidden ones, Pſal.</hi> 83.3. They have that white ſtone, and that new Name written, which no man knows, but he that receives it, <hi>Rev.</hi> 2.17. Again, the beſt cannot enjoy a conſtant communion, there was a breach between <hi>Paul</hi> and <hi>Barnabas, Acts</hi> 15.39. And for partaking in all Ordinances, we know ſometimes thoſe that believe in Chriſt are caſt out, <hi>Joh.</hi> 9.34. and the inceſtuous man partaking in all Ordinances, 1 <hi>Cor.</hi> 5.1, 2. and the Churches of <hi>Aſia</hi> had left their firſt love, and had a name to live, and was dead, and held the doctrine of <hi>Baalam,</hi> and of the <hi>Ni<g ref="char:EOLhyphen"/>cholaitans,</hi> and ſuffered <hi>Jeſebel</hi> to ſeduce the ſervants of God, and yet ſtill they are true Churches. Again, ſuppoſe they had none of thoſe open abominations, yet they might have hypocrites, which are uncapable of the fore-mentioned priviledges, yet all thoſe are viſible Members, till they are diſcovered, and judicially caſt out. A<g ref="char:EOLhyphen"/>gain, many of the members may be infants, which may have true grace, as <hi>Iohn</hi> and <hi>Ieremiah</hi> had, yet not capable of communion, or of publike enjoyment of the Ordinances, yet members, having ſealed their admiſsion by Baptiſm to the parents profeſsion, which is the only form of all Chriſtian Churches.</p>
+            <p>The third Rule, <hi>Saints are only ſuch, who being of age do profeſs faith in Chriſt, and yield obedience unto Chriſt, according to the Rule of Faith and Life taught by Chriſt, and his Apoſtles, and of
+<pb n="6" facs="tcp:117753:4"/>ſuch only ſhould particular Churches conſiſt, and of their children.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The moſt of this was contained in the ſecond Rule, and there anſwered: I ſhall hear take notice of this Rule contradicting it ſelf, ſaying, <hi>Saints are only ſuch, who being of age do profeſs faith in Christ, and yield obedience unto Chriſt, &amp;c. and alſo of children:</hi> But can children be of age, and profeſs faith in Chriſt at the ſame time? it is impoſsible; and yet he ſaith, <hi>thoſe Saints on which the Church conſiſts are only ſuch, and alſo their children;</hi> ſo that if children be admitted to be members, it is, without all that profeſſion, flat againſt this Rule, which ſaith, <hi>the Church only conſists of ſuch;</hi> or elſe if children be not admitted, then alſo it is flat againſt the laſt clauſe of it. Again, if theſe children ſhall be admitted members for their parents profeſsion, then why may they not alſo be admitted members, having ſealed their parents profeſsion by Baptiſm? If any of that <hi>Root be holy, ſo are the branches, Rom.</hi> 11.16. unleſs he turn <hi>Anabaptiſt,</hi> and ſo make their Baptiſm null and voyd; and if ſo, then they muſt be again baptized at their new admiſsion into his Church, and renounce all their Chriſtianity they had before that laſt admiſsion. Again, I would know what need there is of a ſecond admiſsion, unleſs there had been a cutting off by Excommunication, but they are not ſo cut off, only it is his hard thoughts of godly Chriſtians to eſteem them without cauſe to be ſuch; but for thoſe he is pleaſed to admit into his Church, it ſeems their children ſhall partake of the Lords Table without any examination, becauſe they are members, although flat againſt this Rule; and in the very next age the Ordinances of Chriſt will be more polluted, then in any age un<g ref="char:EOLhyphen"/>der the very Prelates, who did appoint Catechiſing, in order to pre<g ref="char:EOLhyphen"/>pare children for that Ordinance; yea, ſome of thoſe Churches have admitted members more for money then for fitneſs, holding the poor to hard terms, although never ſo godly, and the rich to eaſie terms, although never ſo prophane; and being once admitted, they will not caſt them out, if rich, when as ſufficient proof hath been made, that they were common lyars, common ſwearers, common drunkards, and Cheaters of the State.</p>
+            <p>The fourth Rule, <hi>The <g ref="char:V">Ʋ</g>nion of Church-members among them<g ref="char:EOLhyphen"/>ſelves is not their co-habitation, but their conſent to unity, in the fore-mentioned ends.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Their Conſent was given by ſealing the Covenant of Grace, the Sacrament of their Admittance into the Univerſal Church, by
+<pb n="7" facs="tcp:117753:4"/>which they have a right to all the fore-mentioned Priviledges; and this their conſent was further ratified by their conſtant communion with the Church in all publike worſhip, and a continual practiſe of holineſs, both in their general and particular Callings, which ſhews their approbation of their former profeſsion, and all this is known by other of the Church co-habiting near to them, and they near the place of publike Worſhip; but if they did not co-habit near toge<g ref="char:EOLhyphen"/>ther, and alſo near the place of publike Worſhip, they could neither perform thoſe publike and private duties, nor could others obſerve them, neither could the Shepherd take care of his flock, nor be an ex<g ref="char:EOLhyphen"/>ample to the flock, as he is commanded, if the ſheep might wander where they liſt, and as far from his fold as they pleaſe. But why ſhould he break the bounds of co-habitation, if it were not to break the Aſſemblies of publike Worſhip alſo? much like to the Prelates admittance to the Lords Table, who if they brought them money for their Tokens, they neither cared where or how they lived; but the Scripture ſpeaketh of a Sabbath days journey, <hi>Acts</hi> 1.12. which is ſo far, as with convenience they may perform all du<g ref="char:EOLhyphen"/>ties to God, both in publike and private, yet not as if co-habiting only made them members, ſo that if a Turk or Heathen ſhould live in one of our Pariſhes, that for he is ſo living there he is a member of that Church, this is far from our thoughts, for he muſt firſt be admit<g ref="char:EOLhyphen"/>ed into the Univerſal Church, by profeſſing the Chriſtian Faith, and ſealing to it by Baptiſm, and this we ſay gives him right to all the Priviledges of the Chriſtian Church in any particular place where ever he ſhall inhabit; but till this be done, we do not look upon Turks and Heathens as Church members for living amongſt us, al<g ref="char:EOLhyphen"/>though never ſo godly.</p>
+            <p>The fifth Rule, <hi>Admiſſion into theſe Churches are to be by men, according to the Rules preſcribed by Christ, and their Admiſſions and Ejection are no further ratified by Chriſt, then they do agree to theſe Rules.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Church-officers being lawfully called, have power to act by vertue of their Call, although they do not come up in holindſs to the Rules preſcribed by Chriſt; ſo did <hi>Judas,</hi> and <hi>Demas,</hi> and o<g ref="char:EOLhyphen"/>thers, whoſe calling, and not their holineſs, gave them power to act; alſo I grant that theſe Church-officers have power to admit Jews and Turks into the Chriſtian Church, upon their converſion to the Chriſtian Faith manifeſted to them, and alſo to admit Chriſtians
+<pb n="8" facs="tcp:117753:5"/>that are caſt out of the Church by Excommunication upon repent<g ref="char:EOLhyphen"/>ance, and ſatisfaction made to the Church for that offence for which they were caſt out; but to make Admiſsions and Ejections, recei<g ref="char:EOLhyphen"/>ving in and caſting out of thoſe that have ſealed their admiſsion into the Church, and their ingrafting into Chriſt, and as yet never for<g ref="char:EOLhyphen"/>feited their admiſsion, or at leaſt the forfeiture was never taken, nor they caſt out, this were cruel Uſurpation, with a witneſs, to make the hearts of Gods people ſad, but <hi>God will deliver his people out of their hand, Ezek.</hi> 13.22, 23. and ſo much the ſooner, when men ex<g ref="char:EOLhyphen"/>preſs ſo much pride of heart to ſay, Chriſt will no further ratifie their Admiſsions and Ejections, then they agree to theſe Rules, as though Chriſt were more tyed to their inventions, then to his own Inſti<g ref="char:EOLhyphen"/>tution.</p>
+            <p>The ſixth Rule, <hi>The men imployed in this work are Officers, to whom with the Body the power of the Keys is committed.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> All bodies both naturall Politicall, and Miſticall, are guided by their head, and alſo all power in Government, whether in Church or State, is committed to the Governours thereof, there<g ref="char:EOLhyphen"/>fore ſaith Chriſt unto <hi>Peter,</hi> in the name of all the Apoſtles, <hi>I give unto thee the keyes of the Kingdome of Heaven, Mat.</hi> 16, 19. and likewiſe to all the Apoſtles, <hi>What ye ſhal binde, or looſe upon earth ſhal be done in heaven. John</hi> 20.23. and after their deceaſe they left others to ſet in order things that were wanting, <hi>Tit.</hi> 1.5. and when any thing is amiſſe in the Churches of <hi>Aſia</hi> the Angel thereof is charged with it: again ſome muſt rule, and ſome obey them that rule over them, <hi>Heb.</hi> 13, 7.17.24. 1 <hi>Tim.</hi> 5.17, But if the keyes were given for all to act with them, over whom ſhould they rule, neither could there by order or decencie obſerved, as is required <hi>Tit.</hi> 1.5. 1 <hi>Cor.</hi> 14.40. <hi>Col.</hi> 2.5. For all are maſter<g ref="char:EOLhyphen"/>leſſe where all are maſters: again, the Scripture ſaith, this puniſh<g ref="char:EOLhyphen"/>ment of Excommunication, was inflicted by many, 2 <hi>Cor.</hi> 2.6. not by all, as Independents would have it, nor by one as the Pre<g ref="char:EOLhyphen"/>lates would have; again, if in any Society the governed have power to caſt out the Governor, as the Governor hath power to caſt them out, this would ſoon be the bane of all Societies, the ſervant may then as well caſt out the maſter, as the maſter the ſervant, <hi>Hagar</hi> may as well caſt out <hi>Abraham,</hi> as he caſt out her, and ſo the ſon may caſt out the father, as the father the ſon, which would be the ruine of Church and State immediately, yea of all Families and civil Societies.</p>
+            <p>
+               <pb n="9" facs="tcp:117753:5"/>
+The ſeventh Rule, <hi>Church-Officers are to be choſen by their Church-Members.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> It is true, that Church-members, and not Turks and Infidels, are to chooſe Church-officers, but through ſome defect all the mem<g ref="char:EOLhyphen"/>bers cannot chooſe them, for children, and ſick perſons, and thoſe in a journey, and excommunicate perſons cannot chooſe them; nor women, who may not ſpeak in the Church, nor ſervants, who do not contribute to their maintenance, may not chooſe them, yet all in the Church, who are not hindered by ſuch like impediments, may chooſe their Officers, yea out of themſelves, they may chooſe their Elders and Deacons, for ſaith the Text, <hi>Look you out from among your ſelves ſeven men of honest report, and full of the Holy Ghoſt, and Wiſdom; and they choſe Steven, and the reſt, Acts</hi> 6.3.5. But thoſe were only choſen for that particular Society where they lived, and for no other; they were not placed in the Miniſtry, nor in the Univerſal Church, ſo that if they remove to another Church, they cannot take their office with them, therefore their power to chooſe, and alſo to be choſen, reacheth no further then their own Society or Congregation: But a Miniſter being choſen to be placed in the Univerſal Church, a particular Church cannot chooſe them for the Miniſtry, becauſe, I ſay, their office is not there confined; but if they ſhall remove to another Congregation, they take their office with them; yea if he ſhould be caſt out among the Heathen, he may preach and baptize, and ſo diſpence all the Ordinances to them, if they will embrace the Chriſtian Faith; but if multitudes of other Chriſtians were caſt amongſt them, they can act but as private Chri<g ref="char:EOLhyphen"/>ſtian. The Jews being returned from <hi>Babylon,</hi> found that they had no Miniſters, did not make Miniſters of other men, but ſent to <hi>Iddo,</hi> and his brethren, and deſired to ſend them <hi>Minſters for the Houſe of God, and they ſent them a man of underſtanding, of the Tribe of Levi, Ezra</hi> 8.17, 18. And ſo ſhould other Congregations ſend to the Univerſity for the like bleſſing: <hi>When Samaria had received the Chriſtian Faith, the Apoſtles heard of it, and ſent them Peter and John, Act.</hi> 8.14. But the Congregation can give the Miniſter no power to act; they cannot put him into the Miniſtry which are not in it themſelves, nor give him power to act in other Congregations, where they have no power at all. It is not ſaid the particular Church, but <hi>the people of the Land ſhall chooſe the Watch-men,</hi> and not out of their particular Church, but
+<pb n="10" facs="tcp:117753:6"/>
+               <hi>out of their Coaſts, Ezek.</hi> 33.2. Now thoſe people of the Land may be Miniſters in the Univerſity, coming thither out of all parts of the Land, and yet out of their Coaſts, or national Church; ſo that hear we grant them to be Church-members, although not members of their particular Society; and it is a gracious promiſe, that all Go<g ref="char:EOLhyphen"/>vernors in Church and State ſhall be choſen out of the mideſt of them, that is, of thy brethren by Nation, and not ſtrangers, <hi>Jer.</hi> 30.21, 22. Alſo I grant, that a Congregation may chooſe their own Mini<g ref="char:EOLhyphen"/>ſters in relation to themſelves, being already in the Miniſtry, both e<g ref="char:EOLhyphen"/>lected and ordained by Miniſters before for the Miniſtry; but a Con<g ref="char:EOLhyphen"/>gregation may not elect and ordain a Miniſter into the Miniſtry; <hi>Matthias</hi> was choſen by a hundred and twenty names of men, that is, Officers, <hi>Act.</hi> 1.15. When two or three are in the Name of Chriſt having his Authority, they are Church-officers, with the power of binding and looſing, <hi>Mat.</hi> 18.17.20. ſo that 120. was made up of the 70. and 11 Apoſtles, and other preachers, which were with them from the Baptiſm of <hi>John, Act.</hi> 1.21, 22. The Officers of Antichriſt falling, and ſaid to be 7000. names of men, <hi>Rev.</hi> 11.13. and Miniſters muſt be ordained by the Presbytery, 1 <hi>Tim.</hi> 4.14. and not by the peo<g ref="char:EOLhyphen"/>ple; yea when Deacons were choſen out of themſelves for their preſent Society, yet they were ordained by the Apoſtles, they pray<g ref="char:EOLhyphen"/>ed, and laid their hands on them, <hi>Acts</hi> 6.3, 4. Thus far I grant, that the Members of a particular Church have power to chooſe, and to be choſen, for Church-officers, but no further.</p>
+            <p>The eight Rule, <hi>The Officers inſtituted by Chriſt in the Church are Pastors, Elders, and Deacons, whoſe callings and qualifica<g ref="char:EOLhyphen"/>tions are plainly laid down in the Word.</hi> Now to this laſt Rule I ſhall willingly ſubſcribe, if you do not limit and reſtrain your Officers from acting, and make meer Cyphers of them, having but the bare names of Officers, and yet give the leaſt Member in the Congregation, as much power, if not more, to act then he, making them to puniſh thoſe whom every member but themſelves ſhall think fit, giving them no power at all to judge and cenſure, but to execute the cenſure of all other members, whether he thinks the cenſure juſt or not: but Miniſters are ſometimes called Elders in regard of their Power in the Church, and the reſt charged to obey them, <hi>Heb.</hi> 13.7.17.24. <hi>Tit.</hi> 5.17, and ſometimes they are called Paſtors to feed them with knowledge and underſtanding, <hi>Ier.</hi> 3.15. and ſometimes they are called Biſhops or Over-ſeers, in regard of
+<pb n="11" facs="tcp:117753:6"/>their pains and labour, vigilency and aptneſs to teach the flock, 1 <hi>Tim.</hi> 3.1, 2. and alſo to defend them from Wolves that would de<g ref="char:EOLhyphen"/>vour the flock; and likewiſe to maintain the Office of ruling Elders, who alſo are placed in the Church to ſtrengthen the Diſciples and to take care that the poor be provided for of that ſociety, and that the Collections be gathered and diſpoſed by the Deacons, as they ſhall appoint, for to them ſhould the ſtock of the poor be commit<g ref="char:EOLhyphen"/>ted, when relief was ſent to the Churches in Judea, it was com<g ref="char:EOLhyphen"/>mitted to the Elders, <hi>Act.</hi> 11.30. and alſo their work is to deſide controverſies, when private Brethren cannot do it, then ſaith the Text, <hi>tell the Church, Mat.</hi> 18.17. that is, her Officers, and what they bind and loſe ſhall be done in heaven, <hi>ver.</hi> 18. now this cannot be the whole body, becauſe two or three may do it in the name and power of Chriſt, <hi>ver.</hi> 20. nor any two or three had not that autho<g ref="char:EOLhyphen"/>rity, for then the offending and the offended brethren had it, but they had it not, nor two or three more, for it was the third grada<g ref="char:EOLhyphen"/>tion, and yet but two or three, which could be none but the Offi<g ref="char:EOLhyphen"/>cers or Elderſhip, which is the higheſt appeal in a particular Church. Thus if you allow of their Offices, as well as their names, I ſhall ſubſcribe to this laſt, but I doubt you will not, unleſſe you do re<g ref="char:EOLhyphen"/>nounce the latter part of your ſixt Rule.</p>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimat.</p>
+            <closer>
+               <signed>J. D.</signed>
+               <date>
+                  <hi>August</hi> 22. 1650.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
